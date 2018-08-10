@@ -10,4 +10,4 @@ Small experiment with JavaScript for sound visualisation
 
 ## Example
 
-![Image of running version](simple-image.gif)
+![Image of running version](https://github.com/davekelly/soundcheck-vis/blob/master/sample-image.gif)
